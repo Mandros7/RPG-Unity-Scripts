@@ -12,6 +12,10 @@ Camera movement must be set with 45º and 60º (videogame-like isometric view).
 -----------
 Added a Master that handles a Battle system. All players try to get first to the turn queue, and join it depending on their cooldown bars. After that, the system simulates an action.
 
+License
+-------
+This project is under MIT license as described in the [LICENSE](https://github.com/Mandros7/UnityScripts/blob/master/LICENSE) file.
+
 Contributors
 -----------
 Héctor Rodríguez Campo
